@@ -1,0 +1,22 @@
+button {
+  width: 155px;
+  height: 72px;
+  padding: 24px 38px 23px 37px;
+  border-style: none;
+  border-radius: 20px;
+  background-color: var(--clr);
+}
+
+button .text_button {
+  width: 80px;
+  height: 25px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}

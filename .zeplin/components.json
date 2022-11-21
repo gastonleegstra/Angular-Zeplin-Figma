@@ -1,0 +1,32 @@
+{
+  "plugins": [
+    {
+        "name": "@zeplin/cli-connect-angular-plugin"
+    },
+    {
+      "name": "@zeplin/cli-connect-storybook-plugin",
+      "config": {
+          "url": "http://localhost:6006",
+          "startScript": "storybook"
+      }
+    }
+    ],
+    "projects": [
+        "637a79a5e4b5fe13f2375bf9"
+    ],
+    "styleguides": [],
+    "components": [
+        {
+            "path": "src/app/stories/button/button.component.ts",
+            "zeplinIds": [
+                "637a79a97f8d18158c2360e8"
+            ],
+            "storybook": {
+              "kind": "Design System/Button",
+              "stories": [
+                  "primary"
+              ]
+          }
+        }
+    ]
+}
