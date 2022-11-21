@@ -28,5 +28,9 @@
               ]
           }
         }
-    ]
+    ],
+    "github": {
+      "repository": "gastonleegstra/Angular-Zeplin-Figma",
+      "branch": "main"
+  }
 }
